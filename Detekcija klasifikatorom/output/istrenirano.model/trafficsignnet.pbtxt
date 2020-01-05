@@ -1,0 +1,168 @@
+item {
+	id: 1
+	name: 'Ograničenje brzine(20 km/h)'
+}
+item {
+	id: 2
+	name: 'Ograničenje brzine(30 km/h)'
+}
+item {
+	id: 3
+	name: 'Ograničenje brzine(50 km/h)'
+}
+item {
+	id: 4
+	name: 'Ograničenje brzine(60 km/h)'
+}
+item {
+	id: 5
+	name: 'Ograničenje brzine(70 km/h)'
+}
+item {
+	id: 6
+	name: 'Kraj Ograničenja brzine(80 km/h)'
+}
+item {
+	id: 7
+	name: 'Ograničenje brzine(100 km/h)'
+}
+item {
+	id: 8
+	name: 'Ograničenje brzine(120 km/h)'
+}
+item {
+	id: 9
+	name: 'Zabranjeno preticanje'
+}
+item {
+	id: 10
+	name: 'Zabranjeno preticanje za vozila preko 3.5t'
+}
+item {
+	id: 11
+	name: 'Ukrštenje sa sporednim putem'
+}
+item {
+	id: 12
+	name: 'Put s pravom prvenstva'
+}
+item {
+	id: 13
+	name: 'Nailazak na put s pravom prvenstva'
+}
+item {
+	id: 14
+	name: 'STOP'
+}
+item {
+	id: 15
+	name: 'Zabrana kretanja za sva motorna vozila'
+}
+item {
+	id: 16
+	name: 'Zabranjen saobraćaj za kamione'
+}
+item {
+	id: 17
+	name: 'Zabranjen smjer'
+}
+item {
+	id: 18
+	name: 'Opasnost na putu'
+}
+item {
+	id: 19
+	name: 'Oštra krivina lijevo'
+}
+item {
+	id: 20
+	name: 'Oštra krivina desno'
+}
+item {
+	id: 21
+	name: 'Nailazak na štre krivine od kojih je prva lijevo'
+}
+item {
+	id: 22
+	name: 'Udubljenje na putu'
+}
+item {
+	id: 23
+	name: 'klizav kolovoz'
+}
+item {
+	id: 24
+	name: 'Suženje puta'
+}
+item {
+	id: 25
+	name: 'Radovi na putu'
+}
+item {
+	id: 26
+	name: 'Blizina semafora'
+}
+item {
+	id: 27
+	name: 'Blizina pješačkog prelaza'
+}
+item {
+	id: 28
+	name: 'Djeca na putu'
+}
+item {
+	id: 29
+	name: 'Blizina biciklističkog prelaza'
+}
+item {
+	id: 30
+	name: 'Moguća poledica'
+}
+item {
+	id: 31
+	name: 'Divljač na putu'
+}
+item {
+	id: 32
+	name: 'Prestanak svih zabrana'
+}
+item {
+	id: 33
+	name: 'Obavezan smjer desno'
+}
+item {
+	id: 34
+	name: 'Obavezan smjer lijevo'
+}
+item {
+	id: 35
+	name: 'Obavezan smjer pravo'
+}
+item {
+	id: 36
+	name: 'Dozvoljeni smjerovi pravo i desno'
+}
+item {
+	id: 37
+	name: 'Dozvoljeni smjerovi pravo i lijevo'
+}
+item {
+	id: 38
+	name: 'Obavezno obilaženje sa desne strane'
+}
+item {
+	id: 39
+	name: 'Obavezno obilaženje sa lijeve strane'
+}
+item {
+	id: 40
+	name: 'Kružni tok'
+}
+item {
+	id: 41
+	name: 'Prestanak zabrane preticanja'
+}
+item {
+	id: 42
+	name: 'Prestanak zabrane preticanja za teretna vozila'
+}

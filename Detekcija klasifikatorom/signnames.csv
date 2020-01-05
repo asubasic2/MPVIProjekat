@@ -1,0 +1,44 @@
+ClassId,SignName
+0,Ogranicenje brzine (20km/h)
+1,Ogranicenje brzine (30km/h)
+2,Ogranicenje brzine (50km/h)
+3,Ogranicenje brzine (60km/h)
+4,Ogranicenje brzine (70km/h)
+5,Ogranicenje brzine (80km/h)
+6,Kraj ogranicenja brzine (80km/h)
+7,Ogranicenje brzine (100km/h)
+8,Ogranicenje brzine (120km/h)
+9,Zabranjeno preticanje
+10,Zabranjeno preticanje za vozila preko 3.5t
+11,Ukrštenje sa sporednim putem
+12,Put s pravom prvenstva
+13,Nailazak na put s pravom prvenstva
+14,STOP
+15,Zabrana kretanja za sva motorna vozila
+16,Zabranjen promet za vozila preko 3.5 tona
+17,Zabranjen smjer
+18,Opasnost na putu
+19,Oštra krivina lijevo
+20,Oštra krivina desno
+21,Nailazak na štre krivine
+22,Udubljenje na putu
+23,klizav kolovoz
+24,Suženje puta
+25,Radovi na putu
+26,Blizina semafora
+27,Blizina pješačkog prelaza
+28,Djeca na putu
+29,Blizina biciklističkog prelaza
+30,Moguća poledica
+31,Divljač na putu
+32,Prestanak svih zabrana
+33,Obavezan smjer desno
+34,Obavezan smjer lijevo
+35,Obavezan smjer pravo
+36,Dozvoljeni smjerovi pravo i desno
+37,Dozvoljeni smjerovi pravo i lijevo
+38,Obavezan smjer desno
+39,Obavezan smjer lijevo
+40,Kružni tok
+41,Prestanak zabrane preticanja
+42,Prestanak zabrane preticanja za teretna vozila
