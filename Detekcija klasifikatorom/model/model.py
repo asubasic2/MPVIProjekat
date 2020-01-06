@@ -33,11 +33,6 @@ class CNN:
         flat1 = Activation("relu")(flat1)
         flat1 = BatchNormalization(axis=chanDim)(flat1)
         flat1 = Dropout(0.5)(flat1)
-        # flat1 = Flatten()(flat1)
-        # flat1 = Dense(128)(flat1)
-        # flat1 = Activation("relu")(flat1)
-        # flat1 = BatchNormalization(axis=chanDim)(flat1)
-        # flat1 = Dropout(0.5)(flat1)
 
         out = Dense(classes)(flat1)
         out = Activation("softmax")(out)
