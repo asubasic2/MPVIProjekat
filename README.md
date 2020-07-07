@@ -1,4 +1,4 @@
-# MPVIProjekat
+# MPVI Projekat - Detekcija saobraćajnih znakova
 
 Postoje 2 projekta odnosno 2 metode detekcije saobraćajnih znakova. Prva je primjenom klasifikatora i izdvajanjem oblika iz slike, a drugi je segmentacija primjenom keras_segmentation. Unutar oba projekta se nalaze istrenirani modeli koji se mogu pozvati i testirati model.
 
